@@ -1,0 +1,28 @@
+body { 
+    background: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.event-img-div {
+    padding-right: 10px;
+}
+
+.div-card-bg {
+    background-color: rgba(28, 28, 35, 0.8);
+}
+
+.card-title-color {
+    color: beige;
+}
+
+.footer-div {
+    background-color: #6c757d;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+a {
+    color: beige;
+}
